@@ -1,4 +1,4 @@
-# Swapping_3_numbers_UG
+# Swapping_3_numbers
 ## Experiment: Write and Simulate Swapping of Three Numbers using Verilog HDL and Verify with Testbench
 
 ## Aim
@@ -74,6 +74,7 @@ endmodule
 
 ## Expected Output
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16712dad-b2c7-4968-a6f0-ff3e04ab6f83" />
 
 
 ## Result
